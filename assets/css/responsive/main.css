@@ -1,0 +1,608 @@
+/* pc */
+@media (min-width: 1024px) and (max-width: 1280px){
+    .content__quoste{
+        width: auto;
+    }
+
+    .content__quoste-list {
+        max-width: 100%;
+    }
+
+    .header{
+        padding: 0px 30px;
+    }
+
+    .grid__row{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .position-fixed .header-navbar{
+        padding: 0px 30px;
+    }
+
+    .slick-next {
+        right: 30px !important;
+    }
+
+    .slick-prev{
+        left: 30px !important;
+    }
+
+    .footer__bottom-list,
+    .content__menu-food-tab,
+    .content__menu-full-list{
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
+/* pc */
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 1024px){
+    
+
+    .btn.btn--size-l{
+        padding: 14px 15px;
+    }
+
+    /* header */
+    .header-navbar nav,
+    .header-navbar__product,
+    .header-top__call-label
+    {
+        display: none;
+    }
+
+    .header-navbar-icon-bars,
+    .header-navbar-icon-cart
+    {
+        display: block;
+    }
+
+    .header-top-wrap{
+        padding: 0px 30px;
+    }
+    
+    .header-navbar{
+        min-height: 72px;
+    }
+    
+    .header-navbar__logo-img{
+        width: 176px;
+    }
+    
+    .header__menu-wrap{
+        padding: 0px 30px;
+        background-color: #C93844;
+    }
+    /* end header */
+
+    /* slider */
+    .slider__title{
+        font-size: 5.8rem;
+        line-height: 65px;
+        margin: 20px 0 60px;
+    }
+
+    #slider__img{
+        min-height: 480px;
+        object-fit: cover;
+    }
+
+    .slider__heading-btn{
+        padding: 15px 40px;
+    }
+
+    .slider__heading-center.slide01 img{
+        width: 712px;
+    }
+    /* end slider */
+
+    /* content */
+    .content__menu-top-list{
+        padding: 0px 15px;
+        margin-bottom: 40px;
+        margin-top: 5px;
+        justify-content: space-evenly;
+    }
+
+    .content__menu-top-link{
+        padding: 15px;
+    }
+
+    .content__banner-food-type{
+        font-size: 2rem;
+    }
+
+    .content__banner-food-name{
+        font-size: 3.6rem;
+    }
+
+    .content__main-title{
+        font-size: 3rem;
+    }
+
+    .content__product-wrap:nth-child(1) .grid__colum-4{
+        width: 33.3334%;
+    }
+
+    .grid__row{
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .content__product-price{
+        margin-bottom: 20px;
+    }
+
+    .content__banner-aside{
+        padding-top: 50%;
+    }
+
+    .content__banner-aside-bgm{
+        background-position: right -190px center;
+    }
+
+    .content__banner-aside-heading{
+        left: 60%;
+        top: 50%;
+        transform: translate(-100%, -50%);
+    }
+
+    .content__product-wrap:nth-child(2) .grid__colum-4{
+        width: 50%;
+    }
+
+    .content__quoste-list{
+        width: auto;
+    }
+
+    .content__main-des{
+        max-width: 100%;
+    }
+
+
+    .content__quoste-list{
+        margin: 0px 30px;
+    }
+
+    .slick-prev{
+        left: -15px !important;
+    }
+
+    .slick-next{
+        right: -15px !important;
+    }
+
+    .content__menu-full{
+        padding: 80px 30px 80px;
+    }
+
+    .content__menu-full-item{
+        margin: 0;
+    }
+
+    .content__menu-full-title{
+        font-size: 3rem;
+        line-height: 36px;
+    }
+
+    .content__menu-full-details-wrap .grid__row{
+        padding: 0;
+    }
+
+    .content__menu-full-link i{
+        font-size: 3rem;
+    }
+
+    .content__analytics-item{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .content__analytics-count{
+        font-size: 4.8rem;
+        margin-bottom: 0;
+        line-height: 36px;
+    }
+
+    .content__analytics-list{
+        padding: 80px 30px 65px;
+    }
+
+    .content__analytics-icon i{
+        font-weight: 100;
+    }
+
+    .content__main-title{
+        margin-bottom: 15px;
+        line-height: 36px;
+    }
+
+    .content__main-heading{
+        padding-top: 84px !important;
+        padding-bottom: 60px !important;
+    }
+
+    .grid__colum-3{
+        width: 50%;
+    }
+
+    .content__open-hours-item-hours{
+        padding: 60px 30px 60px 0;
+    }
+
+    .content__open-hours-item-content{
+        padding: 60px 30px;
+    }
+
+    .content__open-hours-item-content
+    .content__main-heading{
+        padding: 0 !important;
+    }
+
+    .content__open-hours-item-content .content__main-label{
+        margin-bottom: 10px;
+    }
+
+    .content__open-hours-item-content
+    .content__main-title{
+        margin-bottom: 30px;
+        line-height: 36px;
+    }
+    /* content */
+
+    /* footer */
+    .footer{
+        margin-bottom: 63px;
+    }
+
+    .footer__bottom-list{
+        padding: 0px 30px 40px;
+        justify-content: space-between;
+    }
+
+    .footer__bottom-item{
+        width: 33.3334%;
+        line-height: 24px;
+    }
+
+    .footer__bottom-item:first-child{
+        text-align: left;
+    }
+
+    .footer__bottom-item:nth-child(2){
+        text-align: center;
+    }
+
+    .footer__bottom-item:last-child{
+        text-align: right;
+    }
+
+    .footer__bottom-icon-link{
+        padding-left: 10px;
+    }
+
+    .footer__bottom-line img{
+        width: 100px;
+        margin: 0px 20px;
+    }
+    /* end footer */
+
+    /* footer mobile */
+    .footer__mobile-fixed{
+        display: block;
+    }
+    /* end footer mobile */
+}
+/* tablet */
+
+/* Smartphone */
+@media (max-width: 768px){
+    .header-navbar nav,
+    .header-navbar__product,
+    .header-top__call-label,
+    .slick-dots,
+    .content__banner-aside-bgm
+    .slick-next.slick-arrow,
+    .slick-prev, .slick-next,
+    .content__menu-full-list
+    
+    {
+        display: none !important;
+    }
+
+    .grid__colum-2,
+    .grid__colum-3,
+    .content__banner-col-4,
+    .content__banner-col-8{
+        width: 100%;
+    }
+
+    /* header */
+    header{
+        padding: 0px 15px;
+    }
+
+    .header-navbar{
+        justify-content: space-between;
+        min-height: 80px;
+    }
+
+    .header-navbar__logo-img{
+        width: 180px;
+    }
+
+
+    .header-top{
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 10px 15px 10px 15px;
+        min-height: 90px;
+    }
+
+    .header-navbar-icon-bars,
+    .header-navbar-icon-cart
+    {
+        display: block;
+    }
+
+    .header-top__address{
+        margin-bottom: 10px;
+    }
+
+    .header-top__item-right-call-map{
+        display: flex;
+    }
+
+    .header-top__item-right{
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    .content__menu-top-link{
+        padding: 15px 25px 15px 25px;
+    }
+
+    .content__menu-top-link{
+        flex-direction: column;
+    }
+
+    .content__menu-top-list{
+        justify-content: center;
+        margin: 40px 0;
+    }
+    /* end header */
+
+    /* slider */
+    .slider__des{
+        font-size: 1.4rem;
+    }
+
+    .slider__title{
+        font-size: 4.9rem;
+        line-height: 52px;
+        margin: 14px 0 50px;
+    }
+
+    #slider__img{
+        min-height: 411px;
+        object-fit: cover;
+    }
+
+    .slider__heading-center.slide01 img{
+        width: 603px;
+    }
+
+    .slider__heading-btn{
+        padding: 15px 40px;
+    }
+    /* end slider */
+
+    /* content */
+    .content__banner-aside-des,
+    .content__banner-food-type{
+        font-size: 1.6rem;
+    }
+
+    .content__banner-food-name{
+        font-size: 3.2rem;
+    }
+
+    .content__banner-food-des{
+        font-size: 1.6rem;
+        margin-bottom: 30px;
+    }
+
+    .content__banner-img-wrapper{
+        width: 300px;
+        max-width: 300px;
+    }
+
+    .grid__colum-4{
+        width: 100%;
+    }
+
+    .grid__row{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .content__main-label{
+        font-size: 1.2rem;
+
+    }
+
+    .content__main-title{
+        font-size: 2.6rem;
+        line-height: 32px;
+    }
+
+    .content__main-heading{
+        padding-top: 60px;
+    }
+    
+    .content__product-wrap{
+        margin-bottom: 60px;
+    }
+
+    .content__banner-aside{
+        padding-top: 45%;
+        margin-bottom: 60px;
+    }
+
+    .content__banner-aside-bgm{
+        display: none;
+    }
+
+    .content__banner-aside-sub-title{
+        font-size: 2rem;
+    }
+    
+    .content__banner-aside-title{
+        font-size: 3.6rem;
+        line-height: 40px;
+        margin: 0 0 15px;
+    }
+
+    .content__menu-food-link{
+        padding-bottom: 10px;
+    }
+    
+    .content__quoste-list{
+        width: 700px;
+        max-width: 100%;
+        margin: 0;
+
+    }
+    .content__quoste-des.content__main-des{
+        padding: 20px 15px 46px;
+        font-size: 1.8rem;
+        margin: 0 !important;
+    }
+
+    .content__quoste-author{
+        text-align: center;
+    }
+
+    .content__main-heading{
+        padding: 60px 0 30px;
+    }
+
+    .content__quoste{
+        padding-bottom: 0;
+    }
+
+    .content__menu-full{
+        padding-bottom: 60px;
+    }
+    
+    .content__menu-full-details{
+        padding-top: 5px;
+        margin: 0 20px;
+    }
+
+    .content__menu-mobile{
+        display: block;
+    }
+
+    .content__analytics-item{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .content__analytics-count{
+        font-size: 4.8rem;
+        margin-bottom: 0;
+        line-height: 36px;
+    }
+
+    .content__analytics-list{
+        padding: 80px 30px 65px;
+    }
+
+    .content__analytics-icon{
+        display: none;
+    }
+
+    .content__open-hours{
+        padding: 0;
+        margin-bottom: 0;
+    }
+
+    .content__open-hours-item-hours{
+        width: 100%;
+        padding: 0px 15px 60px;
+        margin-bottom: 0;
+    }
+
+    .content__open-hours-item-des{
+        max-width: 320px;
+        text-align: center;
+    }
+
+    .content__open-hours-item-content{
+        width: 100%;
+        padding: 60px 15px;
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .content__open-hours-item-row{
+        padding: 0px 10px 8px;
+    }
+
+    .content__main-heading .content__main-label{
+        text-align: center;
+    }
+    /* end content */
+
+    /* footer */
+    .footer__title{
+        font-size: 2.8rem;
+        margin-bottom: 20px;
+    }
+
+    .footer__bottom-line{
+        justify-content: center;
+    }
+
+    .footer__bottom-line b{
+        width: 100%;
+        flex: none;
+        margin: 15px 0;
+    }
+
+    .footer__bottom-item{
+        width: 100%;
+    }
+
+    .footer__bottom-line img{
+        width: 220px;
+    }
+
+    .footer__bottom-list{
+        text-align: center;
+    }
+
+    .footer__bottom-item:nth-child(2),
+    .footer__bottom-item:last-child{
+        display: none;
+    }
+
+    .footer__mobile-fixed{
+        display: block;
+    }
+
+    .footer{
+        margin-bottom: 63px;
+    }
+    /* footer */
+    
+}
+/* smartphone */
