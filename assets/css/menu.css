@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6{
 
 /* ======================================= content ========================================= */
 .content__title{
-    background-image: url(/assets/img/menu/background-images-fixed.png);
+    background-image: url(https://letuan02.github.io/piizalian-clone/assets/img/menu/background-images-fixed.png);
     padding-top: 260px;
     background-size: cover;
     background-position: center;
@@ -534,7 +534,7 @@ h1, h2, h3, h4, h5, h6{
 /* banner fixed */
 .content__banner-fixed{
     padding: 120px 30px;
-    background: url(/assets/img/menu/background-images-banner-fixed.jpg) no-repeat fixed top right / cover;
+    background: url(https://letuan02.github.io/piizalian-clone/assets/img/menu/background-images-banner-fixed.jpg) no-repeat fixed top right / cover;
 }
 
 .content__banner-fixed-sub-title{
@@ -572,7 +572,7 @@ h1, h2, h3, h4, h5, h6{
     padding-bottom: 45px;
     margin-bottom: 60px;
     background-color: #2D2D2D;
-    background-image: url(/assets/img/menu/img-full-menu.png);
+    background-image: url(https://letuan02.github.io/piizalian-clone/assets/img/menu/img-full-menu.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

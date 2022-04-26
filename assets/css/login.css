@@ -314,7 +314,7 @@ h1, h2, h3, h4, h5, h6{
 }
 /* title */
 .content__title{
-    background-image: url(/assets/img/blog/background-images-fixed.png);
+    background-image: url(https://letuan02.github.io/piizalian-clone/assets/img/blog/background-images-fixed.png);
     padding-top: 260px;
     background-size: cover;
     background-position: center;

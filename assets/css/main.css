@@ -505,7 +505,7 @@ h1, h2, h3, h4, h5, h6{
     height: 100%;
     padding: 40px;
     background-color: #d6e664;
-    background-image: url(/assets/img/main/img-banner-right.png);
+    background-image: url(https://letuan02.github.io/piizalian-clone/assets/img/main/img-banner-right.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     display: flex;
@@ -707,7 +707,7 @@ h1, h2, h3, h4, h5, h6{
 .content__banner-aside{
     position: relative;
     text-align: center;
-    background: url(/assets/img/main/banner-aside-bg.jpg) no-repeat fixed center center / cover;
+    background: url(https://letuan02.github.io/piizalian-clone/assets/img/main/banner-aside-bg.jpg) no-repeat fixed center center / cover;
     padding-top: 30%;
     margin-bottom: 80px;
 }
@@ -749,7 +749,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .content__banner-aside-bgm{
-    background: url(/assets/img/main/banner-aside-img.png) no-repeat right -50px center / contain;
+    background: url(https://letuan02.github.io/piizalian-clone/assets/img/main/banner-aside-img.png) no-repeat right -50px center / contain;
     background-color: rgba(0, 0, 0, 0.2);
     position: absolute;
     top: 0;
@@ -840,7 +840,7 @@ h1, h2, h3, h4, h5, h6{
 /* menu full */
 .content__menu-full{
     background-color: #2d2d2d;
-    background-image: url(/assets/img/main/img-full-menu.png);
+    background-image: url(https://letuan02.github.io/piizalian-clone/assets/img/main/img-full-menu.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -1166,7 +1166,7 @@ h1, h2, h3, h4, h5, h6{
 /* end news */
 /* open hours */
 .content__open-hours{
-    background-image: url(/assets/img/main/open-hours.jpg);
+    background-image: url(https://letuan02.github.io/piizalian-clone/assets/img/main/open-hours.jpg);
     padding: 300px 30px 0 30px;
     margin-bottom: 155px;
     background-repeat: no-repeat;

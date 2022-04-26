@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6{
 .content__promise-img{
     flex: 1;
     display: flex;
-    background: url(/assets/img/about/about_promise.png) no-repeat center / cover;
+    background: url(https://letuan02.github.io/piizalian-clone/assets/img/about/about_promise.png) no-repeat center / cover;
 }
 /* end promise */
 /* about */
@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6{
 
 .content__about{
     position: relative;
-    background: url(/assets/img/about/about_slider.jpg) no-repeat bottom center / cover;
+    background: url(https://letuan02.github.io/piizalian-clone/assets/img/about/about_slider.jpg) no-repeat bottom center / cover;
     padding-top: 80px;
     text-align: center;
 }
@@ -601,7 +601,7 @@ h1, h2, h3, h4, h5, h6{
 .content__delivery-img{
     width: 55%;
     max-width: 100%;
-    background: url(/assets/img/about/background-image.png) no-repeat center center / contain;
+    background: url(https://letuan02.github.io/piizalian-clone/assets/img/about/background-image.png) no-repeat center center / contain;
 }
 
 .content__delivery-img img{
